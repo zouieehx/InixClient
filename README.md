@@ -26,7 +26,7 @@ Actualmente InixClient incluye:
 - 🎯 **Barra de búsqueda de salas** — busca salas por nombre
 - 🌐 **Interfaz 100% en español** — todo el juego traducido
 - 💎 **UI de cristal** — efecto transparente dentro de las salas
-- 🎮 **Comando /extra** — ajusta extrapolación en salas y replays
+- 🎮 **Comando /extra** — ajusta extrapolación replays
 - 🔗 **Link directo a salas** — pega un link y únete directo
 - 📊 **Stats en el launcher** — jugadores en línea, salas y ping en tiempo real
 - 🎭 **Discord Rich Presence** — muestra que estás jugando HaxBall
