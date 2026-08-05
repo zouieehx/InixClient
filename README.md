@@ -19,19 +19,17 @@ Actualmente InixClient incluye:
 - 🌙 **Tema oscuro personalizable** — elige tu color de fondo, color de acento y imagen de fondo
 - 🎨 **15 temas de pelota animados** — Fuego, Hielo, Eléctrico, Galaxia, Lava, Océano, y más
 - 📸 **Foto de avatar real** — tu foto aparece en tu disco del jugador (visible para otros usuarios de InixClient)
-- 👤 **Perfiles múltiples** — cambia de identidad rápido con nickname, avatar y configuración propia
 - 💬 **Abreviaturas de texto** — crea atajos como `/e` → `/extrapolation`
 - 😄 **1500+ emojis estilo Discord** — escribe `:smile:` y se convierte en 😀
 - 🔗 **Salas favoritas** — marca tus salas preferidas y filtra la lista
 - 🎯 **Barra de búsqueda de salas** — busca salas por nombre
 - 🌐 **Interfaz 100% en español** — todo el juego traducido
-- 💎 **UI de cristal** — efecto transparente dentro de las salas
 - 🎮 **Comando /extra** — ajusta extrapolación replays
 - 🔗 **Link directo a salas** — pega un link y únete directo
 - 📊 **Stats en el launcher** — jugadores en línea, salas y ping en tiempo real
 - 🎭 **Discord Rich Presence** — muestra que estás jugando HaxBall
 - ⚙️ **Resolución personalizable** — ajusta la resolución interna del juego
-- 🔄 **Auto-actualizador** — notificación cuando hay nueva versión
+
 
 ---
 
